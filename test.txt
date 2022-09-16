@@ -3,3 +3,6 @@ esto se supone que debe quedar guardado
 
 estos cambios son el la rama test
 cambios nuevos para seguir desde el paso 4 
+
+cambios desde la rama test2 
+

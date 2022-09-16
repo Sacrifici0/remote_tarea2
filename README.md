@@ -5,6 +5,10 @@
 
 y ahora re truco desde la rama test
 
-nuevos cambios para seguir desde el paso 4 
+vale cuatro desde la rama test2
+que no ni no
+
+
+//nuevos cambios para seguir desde el paso 4 
 
 
